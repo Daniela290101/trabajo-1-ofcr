@@ -1,0 +1,4 @@
+[1,"==> quarto preview Rendertrabajo1.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: Rendertrabajo1.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: Ocupación laboral casen 2022\n  author: Daniela Astudillo\n  editor: visual\n  bibliography:\n    - Trabajo de cuidaos e insercion laboral_repos Zotero.bib\n  \n"]
+[1,"Output created: Rendertrabajo1.html\n\nWatching files for changes\n"]
+[1,"Browse at http://localhost:5452/\n"]

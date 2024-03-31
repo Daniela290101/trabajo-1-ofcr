@@ -1,0 +1,120 @@
+{
+    "sources": [
+        {
+            "id": "PanoramaSocialAmerica2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "language": "es-ES",
+            "note": "Citation Key: PanoramaSocialAmerica2021",
+            "publisher": "United Nations",
+            "publisher-place": "Erscheinungsort nicht ermittelbar",
+            "title": "Panorama Social de América Latina 2020",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Federici",
+                    "given": "Silvia"
+                },
+                {
+                    "family": "Hendel",
+                    "given": "Verónica"
+                },
+                {
+                    "family": "Federici",
+                    "given": "Silvia"
+                }
+            ],
+            "collection-title": "Historia",
+            "id": "federiciCalibanBrujaMujeres2010",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "language": "es-ES",
+            "note": "Citation Key: federiciCalibanBrujaMujeres2010 Number: 9",
+            "publisher": "Traficantes de Sueños",
+            "publisher-place": "Madrid",
+            "title": "Calibán y la bruja: Mujeres, cuerpo y acumulación primitiva",
+            "title-short": "Calibán y la bruja",
+            "type": "book"
+        },
+        {
+            "DOI": "10.18504/pl2652-008-2018",
+            "author": [
+                {
+                    "family": "Rodríguez Garcés",
+                    "given": "Carlos René"
+                },
+                {
+                    "family": "Muñoz Soto",
+                    "given": "Johana Andrea"
+                }
+            ],
+            "container-title": "Perfiles Latinoamericanos",
+            "id": "rodriguezgarcesCapitalHumanoFactores2018",
+            "issue": "52",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        1
+                    ]
+                ]
+            },
+            "note": "Citation Key: rodriguezgarcesCapitalHumanoFactores2018",
+            "title": "Capital humano y factores culturales: Determinantes de la inserción laboral femenina en chile",
+            "title-short": "Capital humano y factores culturales",
+            "type": "article-journal",
+            "volume": "26"
+        },
+        {
+            "author": [
+                {
+                    "family": "INE"
+                }
+            ],
+            "id": "ineMUJERESCHILEMERCADO2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "language": "es-ES",
+            "note": "Citation Key: ineMUJERESCHILEMERCADO2015",
+            "title": "MUJERES EN CHILE Y MERCADO DEL TRABAJO. Participación laboral femenina y brechas salariales.",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "INE"
+                }
+            ],
+            "id": "ineGlosarioEncuestaNacional2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "language": "es-ES",
+            "note": "Citation Key: ineGlosarioEncuestaNacional2019",
+            "title": "Glosario Encuesta Nacional de Empleo",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": []
+}

@@ -1,0 +1,18 @@
+---
+title: "Ocupación laboral casen 2022"
+author: "Daniela Astudillo"
+format: html
+editor: visual
+bibliography: Trabajo de cuidaos e insercion laboral_repos Zotero.bib
+link-citations: true 
+---
+
+## El trabajo de reproducción social y su impacto en la inserción laboral femenina.
+
+Durante las últimas décadas, el aumento de los estudios sobre las brechas de género ha permitido arrojar luz sobre las diversas dimensiones e interseccionalidades de las realidades y desafíos que enfrentan las mujeres ante las profundas desigualdades arraigadas en la estructura social. Uno de los aspectos destacados en esta investigación es la inserción de las mujeres en el mercado laboral, que ha sido objeto de un intenso escrutinio. Se ha argumentado que el tradicional papel doméstico asignado a las mujeres no es incidental, sino que refleja una división sexual del trabajo arraigada en la producción capitalista, como señala Federici en [@federiciCalibanBrujaMujeres2010] Esta división establece una separación de género entre el trabajo productivo y reproductivo. El primero está asociado al rol masculino de trabajo en fábrica, mientras que el segundo, incluye todas las labores domésticas y de cuidado necesarias para renovar la fuerza de trabajo, recae en las mujeres.
+
+Pese a los estereotipos aún presentes, la inserción laboral femenina sigue siendo relevante para establecer oportunidades que les permita no sólo dejar de entenderse como sujeto de la esfera doméstica/privada, sino que también permite acceder a mecanismos que garanticen su propia autonomía salarial y participación en las tomas de decisiones [@PanoramaSocialAmerica2021]. Por ello, aunque al año 2014 la participación de la mujer en el mercado laboral latinoamericano alcanzaba el 50,3%, esta cifra estaba por debajo del 76,7% que representa la tasa de ocupación masculina donde la falta de corresponsabilidad en los cuidados y el trabajo doméstico sigue siendo uno de los principales factores que obstáculos que impiden el mantenimiento de la mujer como fuerza laboral [@rodriguezgarcesCapitalHumanoFactores2018], problema que se acrecentó durante la pandemia, llevando a las mujeres a tener hasta triples jornadas laborales, donde el tiempo destinado a el trabajo de reproducción social no es reconocido, remunerado, ni compartido [@ineMUJERESCHILEMERCADO2015]. 
+
+Este fenómeno resalta la persistencia de las desigualdades de género en el ámbito laboral y subraya la necesidad de abordar la división del trabajo de manera más equitativa y justa. Es por ello, que el estudio desde la sociología se hace cada vez más relevante para abordar estas problemáticas multidimensionales que tienen expresiones y repercusiones tanto en el ámbito privado del desarrollo personal, como público en tanto lo abarcamos como una desigualdad estructural carente de políticas públicas.
+
+En el contexto del problema planteado, se establece como principal hipótesis que la tasa de ocupación femenina está asociada con una distribución desigual de la corresponsabilidad del trabajo doméstico y de cuidado. En otras, la tasa de ocupación femenina en el empleo formal está determinada por la realización de trabajos de reproducción social; a medida que aumenta el tiempo destinado al trabajo doméstico, disminuye la presencia femenina en el mercado laboral. Donde vamos a entender por trabajos de reproducción social, todo aquel trabajo que permite la renovación de la fuerza de trabajo, esto es, el trabajo de cuidados y las horas destinadas al quehacer doméstico. Mientras que la participación laboral la como concepto central se referirá al número de personas en la fuerza de trabajo expresado como porcentaje de la población en edad de trabajar, [@ineGlosarioEncuestaNacional2019]
